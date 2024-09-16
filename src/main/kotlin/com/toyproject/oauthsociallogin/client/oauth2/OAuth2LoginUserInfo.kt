@@ -1,4 +1,4 @@
-package com.toyproject.oauthsociallogin.client.oauth
+package com.toyproject.oauthsociallogin.client.oauth2
 
 import com.toyproject.oauthsociallogin.common.type.OAuth2Provider
 

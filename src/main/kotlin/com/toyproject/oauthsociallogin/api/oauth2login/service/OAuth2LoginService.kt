@@ -1,6 +1,6 @@
 package com.toyproject.oauthsociallogin.api.oauth2login.service
 
-import com.toyproject.oauthsociallogin.client.oauth.OAuth2ClientService
+import com.toyproject.oauthsociallogin.client.oauth2.OAuth2ClientService
 import com.toyproject.oauthsociallogin.common.JwtHelper
 import com.toyproject.oauthsociallogin.common.type.OAuth2Provider
 import com.toyproject.oauthsociallogin.domain.socialmember.service.SocialMemberService

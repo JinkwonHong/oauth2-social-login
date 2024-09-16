@@ -1,6 +1,6 @@
 package com.toyproject.oauthsociallogin.domain.socialmember.service
 
-import com.toyproject.oauthsociallogin.client.oauth.OAuth2LoginUserInfo
+import com.toyproject.oauthsociallogin.client.oauth2.OAuth2LoginUserInfo
 import com.toyproject.oauthsociallogin.domain.socialmember.model.SocialMember
 import com.toyproject.oauthsociallogin.domain.socialmember.repository.SocialMemberRepository
 import org.springframework.stereotype.Service

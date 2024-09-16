@@ -1,7 +1,7 @@
 package com.toyproject.oauthsociallogin.api.oauth2login.controller
 
 import com.toyproject.oauthsociallogin.api.oauth2login.service.OAuth2LoginService
-import com.toyproject.oauthsociallogin.client.oauth.OAuth2ClientService
+import com.toyproject.oauthsociallogin.client.oauth2.OAuth2ClientService
 import com.toyproject.oauthsociallogin.common.type.OAuth2Provider
 import jakarta.servlet.http.HttpServletResponse
 import org.springframework.web.bind.annotation.GetMapping

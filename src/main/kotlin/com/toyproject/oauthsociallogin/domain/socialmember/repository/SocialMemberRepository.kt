@@ -8,5 +8,5 @@ import org.springframework.stereotype.Repository
 
 @Repository
 interface SocialMemberRepository : CrudRepository<SocialMember, Long> {
-    fun findByProviderAndProviderId(kakao: OAuth2Provider, id: String): SocialMember?
+    fun findByProviderAndProviderId(provider: OAuth2Provider, id: String): SocialMember?
 }
